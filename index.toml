@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -8,6 +13,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "43fe767a08365fa6c049c8e35323f6fd1a0aa4602725126e460ae6fd514888be"
 metafile = true
 
 [[files]]
@@ -118,6 +128,16 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
